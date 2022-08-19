@@ -1,7 +1,7 @@
 - A student in middle school
 - Learning python
 
-##Stats
+# Stats #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=maroongold)
 
