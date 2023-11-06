@@ -1,7 +1,7 @@
 - A student in middle school
 - Learning python
 
-# Stats #
+<h1> Stats </h1>
 
 ![GitHub stats](https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight&locale=zh-tw)
 
