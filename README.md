@@ -13,5 +13,5 @@
 
 ---
 
-![Kingsley1116的基本信息](https://luogu-card.vercel.app/about?id=1579163&dark_mode=true)
-![Kingsley1116的练习情况](https://luogu-card.vercel.app/practice?id=1579163&dark_mode=true)
+![Kingsley1116的基本信息](https://luogu-card.vercel.app/about?id=1579163&dark_mode=true&disable_cache=true)
+![Kingsley1116的练习情况](https://luogu-card.vercel.app/practice?id=1579163&dark_mode=true&disable_cache=true)
