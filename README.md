@@ -12,6 +12,3 @@
 ![Top Languages](https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&layout=compact&theme=material-palenight)
 
 ---
-
-![Kingsley1116的基本信息](https://luogu-card.vercel.app/about?id=1579163&dark_mode=true&disable_cache=true)
-![Kingsley1116的练习情况](https://luogu-card.vercel.app/practice?id=1579163&dark_mode=true&disable_cache=true)
