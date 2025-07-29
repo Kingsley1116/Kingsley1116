@@ -30,7 +30,7 @@
   
 <img 
   align="center" 
-  src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&theme=material-palenight&langs_count=20&card_width=900" />
+  src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&theme=material-palenight&langs_count=20&card_width=900&size_weight=0.5&count_weight=0.5" />
   
 <img align="center" src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/wakatime?username=Kingsley1116&card_width=900" />
 
