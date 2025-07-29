@@ -24,10 +24,12 @@
 [![Global LeetCode](https://leetcard.jacoblin.cool/kingsley1116?theme=dark&font=Griffy)](https://leetcode.com/u/Kingsley1116/)
 
 ## 📊 GitHub Stats
-<img align="center" src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight" />
 <img 
   align="center" 
-  src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&theme=material-palenight&langs_count=20&size_weight=0.5&count_weight=0.5" />
+  src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img 
+  align="center" 
+  src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&theme=material-palenight&langs_count=20" />
 <img align="center" src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/wakatime?username=Kingsley1116" />
 
 ## 🎯 Luogu Practice
