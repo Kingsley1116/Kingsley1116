@@ -3,16 +3,12 @@
 
 ## 🛠 Tech Stack  
 <div align="center">
-  <!-- 组合图标悬浮放大 -->
   <a href="#tech-stack">
     <img src="https://skillicons.dev/icons?i=py,cpp,lua,html,css,js&theme=dark&perline=6" 
          alt="Skill Icons" 
-         style="margin: 8px; transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.05)'"
-         onmouseout="this.style.transform='scale(1)'">
+         style="margin: 8px; transition: transform 0.3s;">
   </a>
   
-  <!-- 动态渐变色徽章 -->
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB&labelColor=000" alt="Python">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C&labelColor=000" alt="C++">
@@ -28,8 +24,11 @@
 [![Global LeetCode](https://leetcard.jacoblin.cool/kingsley1116?theme=dark&font=Griffy)](https://leetcode.com/u/Kingsley1116/)
 
 ## 📊 GitHub Stats
-![Profile Stats](https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight)
-![Most Used Languages](https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&layout=compact&theme=material-palenight)
+<img align="center" src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight" />
+<img 
+  align="center" 
+  src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&theme=material-palenight&langs_count=20&size_weight=0.5&count_weight=0.5" />
+<img align="center" src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/wakatime?username=Kingsley1116" />
 
 ## 🎯 Luogu Practice
 [![洛谷练习情况](https://luogu-card.vercel.app/practice?id=1579163&card_width=750&dark_mode=true)](https://www.luogu.com.cn/user/1579163)
