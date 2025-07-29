@@ -5,8 +5,7 @@
 <div align="center">
   <a href="#tech-stack">
     <img src="https://skillicons.dev/icons?i=py,cpp,lua,html,css,js&theme=dark&perline=6" 
-         alt="Skill Icons" 
-         style="margin: 8px; transition: transform 0.3s;">
+         alt="Skill Icons">
   </a>
   
   <div>
@@ -20,8 +19,8 @@
 </div>
 
 ## 🧮 LeetCode Progress
-[![CN LeetCode](https://leetcard.jacoblin.cool/kingsley1116?theme=dark&font=Griffy&site=cn)](https://leetcode.cn/u/Kingsley1116/)
-[![Global LeetCode](https://leetcard.jacoblin.cool/kingsley1116?theme=dark&font=Griffy)](https://leetcode.com/u/Kingsley1116/)
+[![CN LeetCode](https://leetcard.jacoblin.cool/kingsley1116?theme=dark&site=cn&ext=heatmap)](https://leetcode.cn/u/Kingsley1116/)
+[![Global LeetCode](https://leetcard.jacoblin.cool/kingsley1116?theme=dark&ext=heatmap)](https://leetcode.com/u/Kingsley1116/)
 
 ## 📊 GitHub Stats
 <img 
