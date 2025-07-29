@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 <img 
   align="center" 
-  src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=900" />
 <img 
   align="center" 
   src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&theme=material-palenight&langs_count=20" />
