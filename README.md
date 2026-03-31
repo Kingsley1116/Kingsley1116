@@ -5,17 +5,15 @@
 
 ## 🛠 Tech Stack  
 #### Programming languages:
-<img src="https://skillicons.dev/icons?i=py,cpp,lua&theme=dark&perline=6" 
+<img src="https://skillicons.dev/icons?i=py,cpp,lua,java&theme=dark&perline=6" 
      alt="Skill Icons">
 
 #### Web technologies:
 <img src="https://skillicons.dev/icons?i=html,css,js,django,flask,docker,vue,react,bootstrap&theme=dark" 
      alt="Skill Icons">
 
-
-## 📊 GitHub Stats
-<img src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=900&line_height=28" />
+<!-- <img src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api?username=Kingsley1116&count_private=true&show_icons=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=900&line_height=28" />
 
 <img src="https://github-readme-stat-6b43ag034-kingsley1116.vercel.app/api/top-langs/?username=Kingsley1116&theme=material-palenight&langs_count=20&card_width=900&size_weight=0.5&count_weight=0.5" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kingsley1116&card_width=900&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kingsley1116&card_width=900&theme=material-palenight" /> -->
