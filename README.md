@@ -1,5 +1,4 @@
-# 💻 Coding Journey  
-- **Learning while growing**
+# Hello, Im Kingsley. 
 
 ![](https://komarev.com/ghpvc/?username=Kingsley1116&abbreviated=true)
 
