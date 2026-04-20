@@ -1,6 +1,7 @@
 # Hello, Im Kingsley. 
 
 ![](https://komarev.com/ghpvc/?username=Kingsley1116&abbreviated=true)
+[![committers.top badge](https://user-badge.committers.top/macau_private/Kingsley1116.svg)](https://user-badge.committers.top/macau_private/Kingsley1116)
 
 ## 🛠 Tech Stack  
 #### Programming languages:
